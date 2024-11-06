@@ -3,3 +3,4 @@ root = true
 [*]
 indent_style = space #tipo de indentação
 indent_size = 2 #tamanho da linha de indentação
+
