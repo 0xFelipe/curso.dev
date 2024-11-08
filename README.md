@@ -10,3 +10,4 @@ Estou atualmente realizando o **Curso.dev**, criado pelo Filipe Deschamps, para 
 - **Construir uma rede de apoio e colaboração**: Conectar-me com outros estudantes e profissionais da área.
 
 Sigo em constante aprendizado e estou empolgado com o que o futuro reserva nessa jornada!
+`Felipe Mendes`
