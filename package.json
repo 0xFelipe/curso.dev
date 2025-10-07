@@ -11,7 +11,7 @@
   },
   "author": "",
   "license": "MIT",
-  "description": "",
+  "description": "Estou atualmente realizando o **Curso.dev**, criado pelo Filipe Deschamps, para expandir meus conhecimentos em programação e desenvolvimento de software. Este curso tem sido uma experiência incrível para aprimorar minhas habilidades técnicas e explorar conceitos essenciais para uma carreira sólida na área de tecnologia.",
   "dependencies": {
     "next": "^13.1.6",
     "react": "^18.2.0",
